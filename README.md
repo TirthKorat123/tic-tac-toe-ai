@@ -1,6 +1,10 @@
 echo "# Tic Tac Toe AI 🎮
 A Tic Tac Toe game with a perfect AI bot. Try to beat it if you can! 🧠
 
+## Live Demo
+Play the game here: [Tic Tac Toe AI](https://TirthKorat123.github.io/tic-tac-toe-ai/)
+
+
 ## Features
 - Smart AI opponent (impossible to win)
 - Responsive layout
